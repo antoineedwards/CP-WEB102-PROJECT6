@@ -1,4 +1,4 @@
-# Web Development Project 5 - *Dont Be Brewd!*
+# Web Development Project 6 - *Dont Be Brewd! Comntinued*
 
 Submitted by: **Antoine Edwards**
 
@@ -40,7 +40,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='/brewery-list/assets/codepath-project6.gif' />
+<img src='/brewery-list/src/assets/codepath-project6.gif' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
