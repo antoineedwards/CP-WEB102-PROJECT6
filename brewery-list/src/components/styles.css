@@ -171,3 +171,13 @@ body {
     box-shadow: 0 2px 6px rgba(0,0,0,0.4);
 
 }
+.brewery-detail{
+    background-color: white;
+    box-shadow: 0 2px 6px rgba(0.5,0.5,0,0.4);
+    padding: 1.5rem;
+    margin-top: 1rem;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    justify-items: center;
+}
